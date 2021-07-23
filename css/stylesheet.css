@@ -161,6 +161,9 @@ p {
 
 
 @media(min-width: 400px) {
+	body {
+		overflow: hidden;
+	}
 	.logo img {
 		width: 300px; /* Change image size for mid sized devices */
 	}
