@@ -162,7 +162,7 @@ p {
 
 @media(min-width: 400px) {
 	.logo img {
-		width: 500px; /* Change image size for mid sized devices */
+		width: 300px; /* Change image size for mid sized devices */
 	}
 
 	.playercount {
