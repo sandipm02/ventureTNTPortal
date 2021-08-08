@@ -162,7 +162,7 @@ p {
 		overflow: hidden;
 	}
 	.logo img {
-		width: 300px; /* Change image size for mid sized devices */
+		width: 300px; 
 	}
 
 	.playercount {
@@ -185,7 +185,7 @@ p {
 	}
 
 	.logo img {
-		width: 700px; /* Change image size for desktop */
+		width: 700px; 
 	}
 
 	.logo {
