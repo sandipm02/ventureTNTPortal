@@ -71,7 +71,7 @@ const updatePlayercount = (ip, port) => {
         if (result.hasOwnProperty('online')) {
             $(".sip").html(result.online);
         } else {
-            $(".playercount").html("Server isn't online!");
+            $(".playercount").html("Server is not online!");
         }
     });
 };
